@@ -28,3 +28,9 @@
   color: white;
   text-decoration: none;
 }
+
+.herosec {
+  width: 100%;
+  height: 500px;
+  background-color: blue;
+}
